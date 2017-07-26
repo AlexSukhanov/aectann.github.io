@@ -1,0 +1,16 @@
+body {
+	font-family: 'Gotham';
+	font-weight: 300;
+	margin: 0 0;
+	line-height: 1.42em;
+}
+
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+* {
+	box-sizing: border-box;
+}
